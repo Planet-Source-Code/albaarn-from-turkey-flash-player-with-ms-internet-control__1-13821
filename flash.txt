@@ -1,0 +1,7 @@
+
+	««««««««««««««««««««««««««««««»»»»»»»»»»»»»»»»»»»»»»»»»»»»»
+	«  this code shows how to use MS ýnternet control to  open flash movies »
+	«						        »
+	«			                 author:Gürkan Tümer	        »
+	«            				albaarn@yahoo.com           »
+	««««««««««««««««««««««««««««««»»»»»»»»»»»»»»»»»»»»»»»»»»»»»
